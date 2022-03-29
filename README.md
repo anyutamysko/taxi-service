@@ -1,4 +1,3 @@
-"# taxi-service"
 Welcome to Taxi Service
 This is simple Web application supports authentication, registration, other CRUD operations.
 
