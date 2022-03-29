@@ -1,4 +1,4 @@
-**This is simple Web application supports authentication, registration, other CRUD operations.**
+**This is a simple Web application that supports authentication, registration, and other CRUD operations.**
 
 **Functional:**
 - Display all Drivers
