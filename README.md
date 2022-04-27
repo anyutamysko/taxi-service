@@ -1,4 +1,6 @@
-**This is a simple Web application that supports authentication, registration, and other CRUD operations.**
+![eric-nopanen-EufBdG-ZQMs-unsplash](https://user-images.githubusercontent.com/95854933/165461000-ff57dc86-6f2f-47d8-89a1-0acce13fbc6c.jpg)
+
+**This is a simple web application that simulates the work of a taxi service and supports authentication and interaction with the database.**
 
 **Functional:**
 - Display all Drivers
